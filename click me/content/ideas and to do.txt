@@ -1,0 +1,12 @@
+Button ideas
+    * shuffle - moves all buttons to new random spots
+    * a button that hides waldo or sumn idk
+    * a 'corrupted' button that streams colors across the screen
+    * button to change the color of buttons
+    * button to change the size of buttons
+    * a button that screams (maybe it could say "dont click me") huh? that could be clever
+
+things that need fixing:
+    * fucking uh that exploding one in the circle, yeah bro get that together
+    * thanos snap should make a snap sound
+    * 

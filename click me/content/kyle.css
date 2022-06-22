@@ -1,0 +1,16 @@
+body{
+    background-color: white;
+    scrollbar-width:none;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+
+.default{
+    text-align: justify;
+    font-size: small;
+    position: absolute;
+    width: auto;
+    height: auto;
+    top:1%;
+    left:1%;
+}
